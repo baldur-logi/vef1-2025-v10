@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="is">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bestu vinirnir</title>
+</head>
+
+<body class="min-h-screen flex flex-col items-center bg-gray-100 dark:bg-gray-900 transition-colors duration-300">
+    <header class="text-center mb-6">
+        <h1 class="text-3xl font-bold text-blue-600 dark:text-blue-400 transition-colors duration-300">
+            Bestu vinirnir
+        </h1>
+        <p class="text-gray-700 dark:text-gray-300 transition-colors duration-300">
+            Smelltu á takka til að fá geðveikslega sæta mynd!
+        </p>
+    </header>
+
+    <main class="flex flex-col items-center">
+        <section class="mb-4">
+            <button id="catBtn"
+                class="bg-blue-600 dark:bg-blue-400 text-white rounded-md px-4 py-2 m-1 transition duration-300 hover:opacity-90"
+                title="Smelltu til að fá random mynd af kisu">
+                Sýna kött
+            </button>
+            <button id="dogBtn"
+                class="bg-blue-600 dark:bg-blue-400 text-white rounded-md px-4 py-2 m-1 transition duration-300 hover:opacity-90"
+                title="Smelltu til að fá random mynd af voffa">
+                Sýna hund
+            </button>
+
+            <section class="mt-4 flex justify-center">
+                <button id="flood-btn" title="20 myndir!">Meira!</button>
+            </section>
+        </section>
+
+        <section id="image-container" aria-label="Svæði þar sem dýramyndir birtast" class="w-full max-w-md"></section>
+    </main>
+
+    <script type="module" src="/src/main.js"></script>
+</body>
+
+</html>
