@@ -36,6 +36,16 @@ Við fórum smá yfirum, best að refresha síðunni :)
 
 ---
 
+Web API
+
+Þetta verkefni notar eftirfarandi Web API:
+
+The Cat API (https://api.thecatapi.com/v1/images/search) – returnar random kattamyndum sem JSON gögn.
+
+Dog CEO API (https://dog.ceo/api/breeds/image/random) – returnar random hundamyndum sem JSON gögn.
+
+Fetch API sækir frá þeim í api.js
+
 ## Verkfæri
 
 Þessi vefsíða notar eftirfarandi tól:
