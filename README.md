@@ -36,10 +36,6 @@ Við fórum smá yfirum, best að refresha síðunni :)
 
 ---
 
-## Tools
-
-Verkefnið notar eftirfarandi tól:
-
 ## Verkfæri
 
 Þessi vefsíða notar eftirfarandi tól:
