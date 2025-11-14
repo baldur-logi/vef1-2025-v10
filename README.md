@@ -28,7 +28,7 @@ Smelltu á Meira! til að flæða síðuna með fullt af random myndum af hundum
 
 Við fórum smá yfirum, best að refresha síðunni :)
 
-Web API
+## Web API
 
 Þetta verkefni notar eftirfarandi Web API:
 
