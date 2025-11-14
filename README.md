@@ -1,6 +1,6 @@
 # Bestu vinirnir
 
-**Bestu vinirnir** er smáverkefni fyrir dýravini. Hún hefur takka til að skoða random mynd af ketti eða hundi, og svo auka takka sem flæðir síðuna með 20 myndum.
+**Bestu vinirnir** er smáverkefni fyrir dýravini. Vefurinn hefur takka til að skoða random mynd af ketti eða hundi, og svo auka takka sem flæðir síðuna með 20 myndum.
 
 ---
 
@@ -53,7 +53,7 @@ Verkefnið notar eftirfarandi tól:
 - **Fetch API** – innbyggt í vafrann. `fetchCat()` og `fetchDog()` í `api.js` framkvæma asynchronous HTTP beiðnir til að sækja random myndir.
 - **Jest** – Notað til að prófa utils.js. sett upp í utils.test.js. hægt er að nota eftirfarandi skipun til að testa:
 
-npm run test
+- npm run test
 
 ---
 
@@ -71,6 +71,6 @@ tékkar SCSS skrár með Stylelint og tékkar JavaScript skrár með ESlint
 
 hlekkur á live version af síðunni:
 
-
+https://vef1-2025-v10-blb.netlify.app/
 
 
